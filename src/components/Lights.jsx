@@ -1,4 +1,3 @@
-
 import { Environment, Lightformer } from "@react-three/drei";
 
 const Lights = () => {
